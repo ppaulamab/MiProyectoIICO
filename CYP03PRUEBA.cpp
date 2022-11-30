@@ -19,4 +19,6 @@ void main(void)
 		else
 			mes = mes + 1;
 	}
+	//dado caso de ser fecha especial
+
 }
