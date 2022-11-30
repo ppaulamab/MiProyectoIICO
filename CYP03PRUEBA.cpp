@@ -20,6 +20,9 @@ int main(void)
 		
 			mes = mes + 1;
 	}
+	else
 	//dado caso de ser fecha especial 
+
+
 
 }
