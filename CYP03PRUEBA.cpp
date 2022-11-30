@@ -26,6 +26,6 @@ int main(void)
 			dia = dia + 11;
 		else
 			dia = dia + 1;
-
+	printf("%2i %2i %4i", dia, mes, annio);
 
 }
