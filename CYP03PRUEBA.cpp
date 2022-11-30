@@ -14,7 +14,7 @@ int main(void)
 		if (mes == 12)
 		{
 			mes = 1;
-			anio = annio + 1;
+			annio = annio + 1;
 		}
 		else
 		
