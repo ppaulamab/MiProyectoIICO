@@ -17,12 +17,13 @@ int main(void)
 			annio = annio + 1;
 		}
 		else
-		
+
 			mes = mes + 1;
 	}
 	else
-	//dado caso de ser fecha especial 
-
+		//dado caso de ser fecha especial 
+		if (annio == 1582 && dia = 4)
+			dia = dia + 11;
 
 
 }
