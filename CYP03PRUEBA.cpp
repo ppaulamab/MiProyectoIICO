@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main(void)
+int main(void)
 {
 	int dia, mes, annio;
 	scanf_s("%i %i %i", &dia, &mes, &annio);
@@ -14,11 +14,12 @@ void main(void)
 		if (mes == 12)
 		{
 			mes = 1;
-			annio = annio + 1;
+			anio = annio + 1;
 		}
 		else
 		
 			mes = mes + 1;
 	}
 	//dado caso de ser fecha especial 
+
 }
