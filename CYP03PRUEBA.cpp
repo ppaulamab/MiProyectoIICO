@@ -17,6 +17,8 @@ void main(void)
 			annio = annio + 1;
 		}
 		else
+		
 			mes = mes + 1;
 	}
+	//dado caso de ser fecha especial 
 }
