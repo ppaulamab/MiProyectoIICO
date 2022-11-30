@@ -24,6 +24,8 @@ int main(void)
 		//dado caso de ser fecha especial 
 		if (annio == 1582 && dia = 4)
 			dia = dia + 11;
+		else
+			dia = dia + 1;
 
 
 }
